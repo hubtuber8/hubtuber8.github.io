@@ -1,7 +1,7 @@
 /**
  * Just replace BAREUR
  */ 
-const BAREURL = 'https://bare.webpading.workers.dev'
+const BAREURL = 'https://web.2023qq.eu.org/'
 
 /**
  * Non-developers, please modify without authorization, 98% report errors!
